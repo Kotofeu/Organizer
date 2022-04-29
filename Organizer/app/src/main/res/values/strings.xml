@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Органайзер</string>
+    <string name="text_empty">Введите название и время!</string>
+    <string name="text_save">Запись сохранена</string>
+    <string name="text_update">Запись отредактирована</string>
+    <array name="image_list">
+        <item>Стандартная</item>
+        <item>Важно</item>
+        <item>Спорт</item>
+        <item>Вечеринка</item>
+    </array>
+</resources>
